@@ -1,2 +1,3 @@
 helloworld/auth-service/src/main/resources/application.properties
 helloworld/websocket/src/main/resources/application.properties
+helloworld/eureka-server/src/main/resources/application.properties
